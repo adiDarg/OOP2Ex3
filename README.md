@@ -1,1 +1,29 @@
-# OOP2Ex3
+Expected File Format(xlsx/csv):
+
+Components
+
+(Component Name) | (Component Type) | (Component Name) | (Component Type) | ...
+
+Attributes
+
+(Comp1 Attr1) | (Comp1 Attr1 Value) | (Comp2 Attr1) | (Comp2 Attr1 Value) ...
+
+(Comp1 Attr2) | (Comp1 Attr2 Value) (Comp2 Attr2) | (Comp2 Attr2 Value)...
+
+...
+
+Relations
+
+(Relation1 Name) | (Relation1 Type) | (Relation2 Name) | (Relation2 Type) ...
+(Relation1 Source) | (Relation 1 Target) | (Relation2 Source) | (Relation2 Target) ...
+
+Attributes
+
+(Relation1 Attr1) | (Relation1 Attr1 Value) | (Relation2 Attr1) | (Relation2 Attr1 Value) ...
+
+(Relation1 Attr2) | (Relation1 Attr2 Value) (Relation2 Attr2) | (Relation2 Attr2 Value)...
+
+...
+
+//
+Example of correctly formatted file given in the project files(MetadataExDefinitionFile.xslx).
