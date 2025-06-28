@@ -1,0 +1,12 @@
+Components
+Create New Customer,Business Process,Get Customer Information,Activity,Validate Customer Information,Activity,Store Customer,Activity,Interface1,Interface,Interface2,Interface,Interface3,Interface,Customer1,MicroService,Customer1R,Resource,Customer2R,Resource
+Attributes
+BP-ID,1.0,ACT-ID,1.0,ACT-ID,2.0,ACT-ID,3.0,INTERFACE-ID,1.0,INTERFACE-ID,2.0,INTERFACE-ID,3.0,MICROSERVICE-ID,1.0,RESOURCE-ID,1.0,RESOURCE-ID,2.0
+BP-NAME,Customer Creator,ACT-NAME,Information Getter,ACT-NAME,Validator,ACT-NAME,Storer,INTERFACE-NAME,First Interface,INTERFACE-NAME,Second Interface,INTERFACE-NAME,Third Interface,MICROSERVICE-NAME,Customer1 Service,RESOURCE-NAME,Dan,RESOURCE-NAME,Niv
+Relations
+Activate,Associative,Activate,Associative,Activate,Associative,Calling,Associative,Calling,Associative,Calling,Associative,Provided,Associative,Provided,Associative,Provided,Associative,CRUD,Associative,CRUD,Associative
+Create New Customer,Get Customer Information,Create New Customer,Validate Customer Information,Create New Customer,Store Customer,Get Customer Information,Interface1,Get Customer Information,Interface2,Store Customer,Interface3,Interface1,Customer1,Interface2,Customer1,Interface3,Customer1,Customer1,Customer1R,Customer1,Customer2R
+Attributes
+REL-ID,1.0,REL-ID,2.0,REL-ID,3.0,REL-ID,4.0,REL-ID,5.0,REL-ID,6.0,REL-ID,7.0,REL-ID,8.0,REL-ID,9.0,REL-ID,10.0,REL-ID,11.0
+REL-NAME,Hello,,,ActivationCode,12345.0
+"",,,,Password,yt2eo
