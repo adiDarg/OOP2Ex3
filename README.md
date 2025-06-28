@@ -23,5 +23,7 @@ Attributes
 
 (Relation1 Attr2) | (Relation1 Attr2 Value) (Relation2 Attr2) | (Relation2 Attr2 Value)...
 
+...
+
 //
 Example of correctly formatted file given in the project files(MetadataExDefinitionFile.xslx).
